@@ -1,0 +1,16 @@
+.title{
+	background-color: black;
+	color: white;
+	padding:25px;
+	font-weight: 600;
+	text-align: center;
+}
+.boxnew h2{
+  float:left;
+}
+.boxnew button{
+	float: right;
+}
+.container{
+	margin-top:20px;
+}
